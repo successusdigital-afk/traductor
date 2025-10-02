@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+app/storage/uploads/
+app/storage/output/
+app/storage/app.db
+app/storage/app.db-journal
+.env
+.venv/
